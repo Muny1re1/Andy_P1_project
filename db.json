@@ -1,0 +1,187 @@
+{
+    "groceries": [
+        {
+            "item": "Watermelon",
+            "Price": "60",
+            "image": "images/gro_Watermelons.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Tomatoes",
+            "Price": "20",
+            "image": "images/gro_Tomato_je.jpg",
+            "amount":"three"
+        },
+        {
+            "item": "Spring onions",
+            "Price": "65",
+            "image": "images/gro_spring onions.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Spinach",
+            "Price": "5",
+            "image": "images/gro_spinach.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Pinneaples",
+            "Price": "220",
+            "image": "images/gro_pinneaples.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Onions",
+            "Price": "20",
+            "image": "images/gro_onions.jpg",
+            "amount":"two"
+        },
+        {
+            "item": "Minute maid",
+            "Price": "150",
+            "image": "images/gro_minutemaid.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Cabbage",
+            "Price": "45",
+            "image": "images/gro_cabbage.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Baby spinach",
+            "Price": "120",
+            "image": "images/gro_babyspinach.jpg",
+            "amount":"one kilogram"
+        },
+        {
+            "item": "Apples",
+            "Price": "40",
+            "image": "images/gro_apples.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Alcoholic Drink",
+            "Price": "1000 - 5000",
+            "image": "images/gro_alcohol.jpg",
+            "amount":"one"
+        }
+    ],
+    "emergencies": [
+        {
+            "item": "Panadol baby syrup",
+            "Price": "280",
+            "image": "images/panadolbaby.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Panadol tablets",
+            "Price": "20",
+            "image": "images/em_panadol.jpg",
+            "amount":"one pair of"
+        },
+        {
+            "item": "Gas cylinder (new)",
+            "Price": "3800",
+            "image": "images/em_gas.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Gas cylider(refill)",
+            "Price": "1495",
+            "image": "images/em_gas.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "First aid kit",
+            "Price": "4000",
+            "image": "images/em_firstaid.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Bandaid",
+            "Price": "300",
+            "image": "images/em_bandaid.jpg",
+            "amount":"one pack(100)"
+        },
+        {
+            "item": "Antibiotic",
+            "Price": "1800",
+            "image": "images/em_Antibiotic.jpg",
+            "amount":"one"
+        }
+    ],
+    "toiletries": [
+        {
+            "item": "Deodrant",
+            "Price": "350",
+            "image": "images/toi_deodrant.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Diapers",
+            "Price": "2250",
+            "image": "images/toi_diapers.jpg",
+            "amount":"one packet"
+        },
+        {
+            "item": "Sanitaries",
+            "Price": "480",
+            "image": "images/toi_pad.jpg",
+            "amount":"one packet"
+        },
+        {
+            "item": "Soap",
+            "Price": "110",
+            "image": "images/toi_soap.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Tissue",
+            "Price": "35",
+            "image": "images/toi_tissue.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Toothbrush",
+            "Price": "50",
+            "image": "images/toi_toothbrush.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Toothpaste",
+            "Price": "150",
+            "image": "images/toi_toothpaste.jpg",
+            "amount":"one"
+        },
+        {
+            "item": "Vaseline",
+            "Price": "130",
+            "image": "images/toi_vaseline.jpg",
+            "amount":"one"
+        }
+    ],
+    "images": [
+        {
+            "src": "images/veg-box-conventional2-1-600x600.jpg"
+        },
+        {
+            "src": "images/Cooking-gas-cylinder.png"
+        },
+        {
+            "src": "images/em_panadol.jpg"
+        },
+        {
+            "src": "images/gro_alcohol.jpg"
+        },
+        {
+            "src": "images/toi_diapers.jpg"
+        },
+        {
+            "src": "images/toi_toothpaste.jpg"
+        },
+        {
+            "src": "images/toi_toothbrush.jpg"
+        }
+    ]
+}

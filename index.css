@@ -1,0 +1,185 @@
+body{
+    background-image: url("images/background.jpg");
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.nav-bar {
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: gray;
+    border-style: hidden;
+    margin-top: 0%;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.nav-bar ul{
+    text-align: center;
+}
+.nav-bar li{
+    border-style: hidden;
+    display: inline-block;
+    font-size: medium;
+    margin-top: 3px;
+    padding: 25px 20px;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    width: fit-content;
+    text-transform: uppercase;
+}
+.nav-bar li:hover{
+    background-color: black;
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(65, 63, 63);
+    border-color: gray;
+    font-weight: bold;
+}
+#heading{
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: white;
+    border-style: hidden;
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-decoration: underline;
+}
+#display-description li{
+    font-size: medium;
+    display: inline;
+    border-style: hidden;
+    background-color: azure;
+    border-radius: 10px;
+    width: fit-content;
+     margin-left: 50px;
+     margin-right: 50px;
+     margin-top: -10px;
+}
+#display-description li:hover{
+    cursor: pointer;
+    border-color: gray;
+    font-weight: bold;
+}
+#bottom{
+    margin-top: 20px;
+    text-align: center;
+}
+#make_order2{
+    font-size: x-large;
+    border-style: solid;
+    border-radius: 10px;
+}
+#make_order2:hover{
+       font-size: xx-large;
+    border-style: hidden;
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(31, 31, 31);
+}
+#slideshow{
+    margin-top: 10px;
+    border-style: hidden;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+}
+#slideshow img{
+    padding: 5px;
+    border-style: hidden;
+    width: max-content;
+    height: max-content;
+    background-color: grey;
+    box-shadow: 5px 7px 5px;
+    margin-top: 10px;
+    display: block;
+    margin: auto;
+    width: 360px;
+    height: 250px;
+    border-radius: 10px;
+}
+#groceries{
+    font-size: larger;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+#toiletries{
+    font-size: larger;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+#emergencies{
+    font-size: larger;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+#groceries:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+#toiletries:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}#emergencies:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+#display-description li{
+    display: block;
+    text-align: center;
+}
+#nextbutton{
+    display: block;
+    margin: auto;
+    margin-left: 335px;
+    border-radius: 10px;
+}
+#nextbutton:hover{
+    background-color:  rgb(3, 87, 3);
+    font-size: xx-large;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: -5px;
+}
+#description{
+    border-radius: 10px;
+    color: black;
+    width: fit-content;
+    margin-left: 500px;
+}
+#amountOf{
+    background-color: red;
+    border-radius: 10px;
+    border-style: hidden;
+}
+#amountOf:hover{
+    background-color: white;
+    border-style: solid;
+}
+#checkOut{
+    border-style: solid;
+    border-radius: 10px;
+    width: fit-content;
+}
+#checkOut:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+#timer{
+    border-style: solid;
+    width: fit-content;
+    background-color: grey;
+}
