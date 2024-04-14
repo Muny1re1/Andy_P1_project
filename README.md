@@ -11,7 +11,7 @@ I followed these steps to create this project.
   2. Navigated to it using cd code.
   3. opened in vs code and started working on the code itself.
 ## link to my site 
-
+[live site here] https://muny1re1.github.io/Andy_P1_project/
 ## copyright and license
 This project is licensed under the The [MIT License](LICENSE).
 Contact me at andy.munyiri@student.moringaschool.com
