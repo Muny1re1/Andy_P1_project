@@ -8,8 +8,9 @@ This is a one page app for a groceries delivery shop. It has been designed to ta
 ## Project setup instructions.
 I followed these steps to create this project.
   1. Cloned my git repository to the terminal.
-  2. Navigated to it using cd code.
-  3. opened in vs code and started working on the code itself.
+  2. added necessary files.
+  3. Navigated to it using cd code.
+  4. opened in vs code and started working on the code itself.
 ## link to my site 
 [live site here] https://muny1re1.github.io/Andy_P1_project/
 ## copyright and license
